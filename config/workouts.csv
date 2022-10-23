@@ -1,0 +1,11 @@
+name, units, amount, difficulty
+"Pushups","reps",20,1
+"Situps","reps",20,1
+"Pullups","reps",10,1
+"Squeezy thing","minutes",1,1
+"Jog","minutes",15,2
+"Squats","reps",20,1
+"Burpees","reps",30,3
+"Pull Day","minutes",30,4
+"Push Day","minutes",30,4
+"Leg Day","minutes",30,4
